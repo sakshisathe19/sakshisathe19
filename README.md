@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 I am a data-driven professional with experience in **data analysis, R programming, and machine learning**. My background includes internships in various industries where I have successfully implemented solutions to improve data processing, prediction accuracy, and decision-making efficiency.
 
-- 💼 Currently a **Data Analyst and R Programmer Intern** at MyNalanda.
+- 💼 Currently a **Data Analyst and R Programmer** at MyNalanda.
 - 🌱 Constantly learning and enhancing my skills in **Python, R, SQL**, and **machine learning**.
 - 📊 Passionate about translating data into meaningful insights using **Excel**, **Tableau**, and **data visualization** techniques.
 - 🤝 Open to collaboration on **data science projects** and **machine learning models**.
@@ -24,7 +24,7 @@ I am a data-driven professional with experience in **data analysis, R programmin
 ---
 
 ### 💻 Work Experience
-- **Data Analyst & R Programmer Intern** - MyNalanda (Dec 2023 - Present)  
+- **Data Analyst & R Programmer** - MyNalanda (Dec 2023 - Present)  
   Spearheaded data analysis and visualizations for educational projects, streamlining the analysis process and delivering actionable insights for stakeholders.
 
 - **Data Analyst Intern** - KultureHire (Jul 2023 - Oct 2023)  
