@@ -3,7 +3,7 @@
 ### Data Analyst & R Programmer | Machine Learning Enthusiast
 
 **Email**: [sakshisathe19@gmail.com](mailto:sakshisathe19@gmail.com)  
-**LinkedIn**: [Sakshi Sathe](https://www.linkedin.com/in/sakshi-sathe/)  
+**LinkedIn**: [Sakshi Sathe](https://www.linkedin.com/in/sakshi-sathe/) 
 
 ---
 
